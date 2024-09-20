@@ -1,4 +1,4 @@
-**Stick-Cmd Metasploitable 2 Project journal**
+**Stick-Cmd OhSint Project journal**
 
 | Date: 09-17-2024  | Entry: 001  |  |  |
 | :---- | :---- | ----- | ----- |
